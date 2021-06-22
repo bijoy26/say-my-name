@@ -3,6 +3,8 @@
 Picks that goddamn name of your choice.
 Make yourself confident to say "You're goddamn right!".
 
+<img src="assets\header.png">
+
 ## Features
 
 -
