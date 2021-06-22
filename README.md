@@ -1,17 +1,26 @@
 # Say My Name
 
-Picks that goddamn name of your choice.
-Make yourself confident to say "You're goddamn right!".
+<h1 align="center">
+    <img alt="Breaking Bad" src="assets\header.png" width="600px" />
+    <br>
+</h1>
 
-<img src="assets\header.png">
+<h4 align="center">
+  A simple react app that picks that "goddamn name" of your choice and make yourself confident to say "You're goddamn right!". 
+</h4>
+
+<p align="center">
+  <a href="#">Wiki</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">License</a>
+</p>
 
 ## Features
 
--
--
--
+-   Simple UI to suggest your preferred name
+-   Redirect to related domain from NameCheap
 
-## Dependencies
+## :space_invader: Dependencies
 
 -   create-react-app
     -   ReactJS
@@ -21,6 +30,20 @@ Make yourself confident to say "You're goddamn right!".
 -   Node package
     -   startup-name-generator
     -   gh-pages ( development )
+
+## :pager: Local Build
+
+```sh
+# setup project and install dependencies
+npm install
+
+# start local dev server at port 3000
+npm start
+```
+
+## :memo: License
+
+This project is licensed under the <To-Be-Added> License - see the [LICENSE](#) file for details.
 
 ## Credits
 
