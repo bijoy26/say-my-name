@@ -1,7 +1,24 @@
 # Say My Name
 
-This app picks that goddamn name for you.
+Picks that goddamn name of your choice.
 Make yourself confident to say "You're goddamn right!".
+
+## Features
+
+-
+-
+-
+
+## Dependencies
+
+-   create-react-app
+    -   ReactJS
+    -   Babel
+    -   Webpack
+    -   Jest
+-   Node package
+    -   startup-name-generator
+    -   gh-pages ( development )
 
 ## Credits
 
