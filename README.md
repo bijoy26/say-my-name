@@ -47,4 +47,5 @@ This project is licensed under the <To-Be-Added> License - see the [LICENSE](#) 
 
 ## Credits
 
--   Cover Image [Flickr @BagOGames](https://www.flickr.com/photos/bagogames)
+-   [@TheLeanProgrammer](https://github.com/TheLeanProgrammer)'s guide on [NameIt](https://github.com/TheLeanProgrammer/nameit)
+-   Cover Image by [@BagOGames](https://www.flickr.com/photos/bagogames)
