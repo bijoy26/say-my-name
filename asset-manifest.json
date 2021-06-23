@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/say-my-name/static/css/main.5885f2c2.chunk.css",
+    "main.js": "/say-my-name/static/js/main.cb923eaa.chunk.js",
+    "main.js.map": "/say-my-name/static/js/main.cb923eaa.chunk.js.map",
+    "runtime-main.js": "/say-my-name/static/js/runtime-main.adf738e5.js",
+    "runtime-main.js.map": "/say-my-name/static/js/runtime-main.adf738e5.js.map",
+    "static/js/2.549fb40a.chunk.js": "/say-my-name/static/js/2.549fb40a.chunk.js",
+    "static/js/2.549fb40a.chunk.js.map": "/say-my-name/static/js/2.549fb40a.chunk.js.map",
+    "index.html": "/say-my-name/index.html",
+    "static/css/main.5885f2c2.chunk.css.map": "/say-my-name/static/css/main.5885f2c2.chunk.css.map",
+    "static/js/2.549fb40a.chunk.js.LICENSE.txt": "/say-my-name/static/js/2.549fb40a.chunk.js.LICENSE.txt",
+    "static/media/img.e3573e3c.jpg": "/say-my-name/static/media/img.e3573e3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf738e5.js",
+    "static/js/2.549fb40a.chunk.js",
+    "static/css/main.5885f2c2.chunk.css",
+    "static/js/main.cb923eaa.chunk.js"
+  ]
+}
