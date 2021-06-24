@@ -10,9 +10,9 @@
 </h4>
 
 <p align="center">
-  <a href="#">Wiki</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bijoy26/say-my-name/wiki">Wiki</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#">License</a>
+  <a href="https://github.com/bijoy26/say-my-name/blob/master/LICENSE">License</a>
 </p>
 
 ## Features
