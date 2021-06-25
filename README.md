@@ -28,7 +28,7 @@
     -   Webpack
     -   Jest
 -   Node package
-    -   startup-name-generator
+    -   startup-name-generatorbijoy26/saymyname-1
     -   gh-pages ( development )
 
 ## :pager: Local Build
@@ -45,7 +45,8 @@ npm start
 
 This project is licensed under the <To-Be-Added> License - see the [LICENSE](#) file for details.
 
-## Credits
+## Acknowledgements
 
 -   [@TheLeanProgrammer](https://github.com/TheLeanProgrammer)'s guide on [NameIt](https://github.com/TheLeanProgrammer/nameit)
 -   Cover Image by [@BagOGames](https://www.flickr.com/photos/bagogames)
+-   Readme template by [@msvalandro](https://github.com/msvalandro/saymyname)
